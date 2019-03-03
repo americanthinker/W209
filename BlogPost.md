@@ -5,7 +5,7 @@
   
 ![Neptune Spear Command Center](https://github.com/americanthinker/W209/blob/master/NSCommandCenter.png)
 	
-At the time, the American public was aware that the US was engaged in combat operations in Afghanistan, but the whereabouts of Osama bin Laden—including whether he was alive or dead—were unknown.  The announcement by President Obama (which, by the way, I recall interrupting my viewing of [America’s Funniest Home Videos](https://afv.com/)), confirmed to the American public that Osama bin Laden: 
+At the time, the American public was aware that the US was engaged in combat operations in Afghanistan, but the whereabouts of Osama bin Laden—including whether he was alive or dead—were unknown.  The announcement by President Obama (which, by the way, interrupted my viewing of [America’s Funniest Home Videos](https://afv.com/)), confirmed to the American public that Osama bin Laden: 
 
 *	Survived the US invasion of Afghanistan in 2001.
 *	Had been hiding in Pakistan for several years.
