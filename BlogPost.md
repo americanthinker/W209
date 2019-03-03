@@ -29,9 +29,10 @@ Publicly elected representative
 
 
 
-Sources
+**Primary Sources**
 1. https://en.wikisource.org/wiki/Remarks_by_the_President_on_Osama_bin_Laden
 2. https://fas.org/sgp/crs/terror/R44678.pdf
-3. another source	
+3. https://theintercept.com/2014/08/05/watch-commander/
+4. https://www.fbi.gov/file-repository/terrorist-screening-center-frequently-asked-questions.pdf/view
 	
 
