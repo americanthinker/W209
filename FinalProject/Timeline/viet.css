@@ -1,0 +1,56 @@
+
+.mytooltip {
+  position:absolute;
+  text-align: center;
+  width: 300px;
+  height: auto;
+  background-color: white;
+  /*border-radius: 10px;*/
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  color: #787777;
+  padding: 6px 12px;
+  z-index:3;
+  pointer-events: none;
+}
+
+/*.mytooltip:after {
+  box-sizing: border-box;
+  display: inline;
+  width: 100%;
+  line-height: 1;
+  color: #EDE3D1;
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+  margin: -3px 0 0 0;
+  top: 100%;
+  left: 0;
+}*/
+.mytooltip h1 {
+  display: block;
+  text-align: center:center;
+  height: auto;
+  margin: 5px auto;
+  font-size: 12em;
+}
+.mytooltip span {
+    display: block;
+    text-align: center;
+    font-family: Garamond;
+    width: 300px;
+    height: auto;
+    margin: 5px auto;
+  }
+
+#thumbnail {
+    width: 300px;
+    height: auto;
+    margin: 0 auto;
+    color: #787777;
+    text-align: center;
+  }
