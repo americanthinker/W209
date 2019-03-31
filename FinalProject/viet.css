@@ -1,0 +1,42 @@
+
+.mytooltip {
+  position:absolute;
+  text-align: center;
+  width: 400px;
+  height:auto;
+  background-color: grey;
+  border-radius: 10px;
+  color: #787777;
+  padding: 6px 12px;
+  z-index:3;
+}
+
+/*.mytooltip:after {
+  box-sizing: border-box;
+  display: inline;
+  width: 100%;
+  line-height: 1;
+  color: #EDE3D1;
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+  margin: -3px 0 0 0;
+  top: 100%;
+  left: 0;
+}*/
+
+.mytooltip span {
+    display: block;
+    text-align: center;
+    width: 200px;
+    height: auto;
+    margin: 5px auto;
+  }
+
+#thumbnail {
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    color: #787777;
+    text-align: center;
+  }
